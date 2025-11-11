@@ -9,8 +9,8 @@ We study phase-transition–like behavior in diffusion models through the Rieman
 Side-by-side visualizations of a latent slice:
 
 <p align="center">
-  <img src="figures/column_grids.png" width="49%" />
-  <img src="figures/grid_det_steps_annotated.png" width="49%" />
+  <img src="figures/column_grids.png" width="24%" />
+  <img src="figures/grid_det_steps_annotated.png" width="74%" />
   <!-- Left: grid of predicted noiseless images; Right: evolution of det of CLIP pullback metric -->
 </p>
 
